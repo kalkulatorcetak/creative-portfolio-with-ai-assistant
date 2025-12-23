@@ -1,0 +1,6 @@
+
+{
+  "name": "Creative Portfolio with AI Assistant",
+  "description": "A modern, responsive portfolio landing page featuring social media integration and an interactive Gemini AI assistant.",
+  "requestFramePermissions": ["microphone"]
+}
